@@ -2,7 +2,7 @@ CFMagicEventsDemo
 =================
 
 
-This trick was initially created to make an app for my children (available here for free : *[Incredible App - US/EN/FR version](https://itunes.apple.com/fr/app/incredible/id714822935?mt=8).*).<br>
+This trick was initially created to make an app for my children (available here for free : *[Incredible App - US/EN/FR version](https://itunes.apple.com/fr/app/incredible/id714822935?mt=8)*).<br>
 This allows to `use your back camera as a simple button`.<br>
 Technically, frames are captured from the back camera, and a simple algorithm is checking the fall of luminosity due to passage of your finger.
 
