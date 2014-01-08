@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DC67AD9E-BC25-4C29-9D18-2DEC480AD241</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CFMagicEventsDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F198CC59-79AC-4FF1-957F-0E1A80F3032C</key>
+		<string>https://github.com/zuckerbreizh/CFMagicEventsDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CFMagicEventsDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F198CC59-79AC-4FF1-957F-0E1A80F3032C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zuckerbreizh/CFMagicEventsDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F198CC59-79AC-4FF1-957F-0E1A80F3032C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F198CC59-79AC-4FF1-957F-0E1A80F3032C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CFMagicEventsDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
