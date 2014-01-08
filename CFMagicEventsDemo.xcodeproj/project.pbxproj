@@ -21,6 +21,8 @@
 		2983E11B187D526F00B0745F /* CFMagicEvents.m in Sources */ = {isa = PBXBuildFile; fileRef = 2983E11A187D526F00B0745F /* CFMagicEvents.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		2983E121187D532900B0745F /* lapin_640_720.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2983E11F187D532900B0745F /* lapin_640_720.jpg */; };
 		2983E122187D532900B0745F /* chapeau_640_720.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2983E120187D532900B0745F /* chapeau_640_720.jpg */; };
+		2985FD59187D67F9000904F3 /* Main_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2985FD57187D67F9000904F3 /* Main_iPhone.storyboard */; };
+		2985FD5A187D67F9000904F3 /* Main_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2985FD58187D67F9000904F3 /* Main_iPad.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +55,8 @@
 		2983E11A187D526F00B0745F /* CFMagicEvents.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CFMagicEvents.m; sourceTree = "<group>"; };
 		2983E11F187D532900B0745F /* lapin_640_720.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lapin_640_720.jpg; sourceTree = "<group>"; };
 		2983E120187D532900B0745F /* chapeau_640_720.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chapeau_640_720.jpg; sourceTree = "<group>"; };
+		2985FD57187D67F9000904F3 /* Main_iPhone.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main_iPhone.storyboard; sourceTree = "<group>"; };
+		2985FD58187D67F9000904F3 /* Main_iPad.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main_iPad.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +115,8 @@
 		2983E0E6187D51AC00B0745F /* CFMagicEventsDemo */ = {
 			isa = PBXGroup;
 			children = (
+				2985FD57187D67F9000904F3 /* Main_iPhone.storyboard */,
+				2985FD58187D67F9000904F3 /* Main_iPad.storyboard */,
 				2983E118187D524E00B0745F /* CFMagicEvents */,
 				2983E0EF187D51AC00B0745F /* CFAppDelegate.h */,
 				2983E0F0187D51AC00B0745F /* CFAppDelegate.m */,
@@ -223,6 +229,8 @@
 			files = (
 				2983E0FC187D51AC00B0745F /* Images.xcassets in Resources */,
 				2983E0EB187D51AC00B0745F /* InfoPlist.strings in Resources */,
+				2985FD59187D67F9000904F3 /* Main_iPhone.storyboard in Resources */,
+				2985FD5A187D67F9000904F3 /* Main_iPad.storyboard in Resources */,
 				2983E122187D532900B0745F /* chapeau_640_720.jpg in Resources */,
 				2983E121187D532900B0745F /* lapin_640_720.jpg in Resources */,
 			);
