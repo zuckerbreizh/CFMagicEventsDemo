@@ -6,6 +6,10 @@ This trick was initially created to make an app for my children (available here 
 This allows to `use your back camera as a simple button`.<br>
 Technically, frames are captured from the back camera, and a simple algorithm is checking the fall of luminosity due to passage of your finger.
 
+<p align="center">
+  <img src="https://s3.amazonaws.com/cocoacontrols_production/uploads/control_image/image/2705/photo.PNG" alt="Sublime's custom image" width="300" height="450" style="border:1px solid black"/>
+</p>
+
 ###Installation
 
 Copy CFMagicEvents.h and CFMagicEvents files into your project.
